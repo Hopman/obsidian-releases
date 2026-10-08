@@ -59827,5 +59827,12 @@
     "author": "udarent",
     "description": "Upload attachments to your own S3-compatible storage and keep a local cache, so images still render with no network. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "udarent/obsidian-plugins-attachment-cloud-cache"
+  },
+  {
+    "id": "daily-meetings-tracker",
+    "name": "Daily Meetings Tracker",
+    "author": "Hopman",
+    "description": "Automatically generates and maintains a daily checklist of meetings in the daily note.",
+    "repo": "Hopman/obsidian-meeting-tracker"
   }
 ]
